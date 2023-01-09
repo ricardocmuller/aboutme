@@ -8,6 +8,8 @@ Hi there! My name is Ricardo, I am originally from Brazil and in 2009 migrated t
 
 I am a former architectural designer and University tutor who developed data and programming skills over the few last years, becoming a certified data scientist, and building a portfolio of projects that I am now sharing on GitHub.
 
+Passionate about learning and teaching, I am always looking to make a positive impact through the application and dissemination of knowledge.
+
 I believe that the lateral thinking from architecture coupled with the technical skills of data science and data analysis create a unique skillset to tackle business and world problems. 
 
 ## 📖 Education
