@@ -24,4 +24,4 @@ __Bachelor of Applied Science - Architectural Science__ | Curtin University, 201
 
 ## 🔎 Projects
 
-My portfolio projects are pinned below for viewing, and showcase the use of technologies such as Python, Power BI, and SQL working with different datasets to solve problems and answer questions.
+My portfolio projects are pinned below for viewing, and showcase the use of technologies such as __Python__, __Power BI__, and __SQL__ working with different datasets to solve problems and answer questions.
